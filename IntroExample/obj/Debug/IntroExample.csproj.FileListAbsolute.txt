@@ -1,0 +1,6 @@
+C:\src\IntroExample\IntroExample\bin\Debug\IntroExample.exe.config
+C:\src\IntroExample\IntroExample\bin\Debug\IntroExample.exe
+C:\src\IntroExample\IntroExample\bin\Debug\IntroExample.pdb
+C:\src\IntroExample\IntroExample\obj\Debug\IntroExample.csprojResolveAssemblyReference.cache
+C:\src\IntroExample\IntroExample\obj\Debug\IntroExample.exe
+C:\src\IntroExample\IntroExample\obj\Debug\IntroExample.pdb
